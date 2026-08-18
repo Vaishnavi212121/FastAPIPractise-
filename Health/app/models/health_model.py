@@ -1,5 +1,4 @@
-from pydantic import BaseModel
-
-
-class HealthResponse(BaseModel):
-    status: str
+class HealthRecord:
+    def __init__(self, status, app_name):
+        self.status = status
+        self.app_name = app_name
