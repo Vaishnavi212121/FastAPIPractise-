@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "patient_name": "Aarav",
+        "age": 28,
+        "heart_rate": 72,
+        "blood_pressure": "120/80",
+        "temperature": 36.7,
+        "oxygen_level": 98,
+        "status": "healthy"
+    },
+    {
+        "id": 2,
+        "patient_name": "Ananya",
+        "age": 34,
+        "heart_rate": 88,
+        "blood_pressure": "128/84",
+        "temperature": 37.1,
+        "oxygen_level": 97,
+        "status": "healthy"
+    },
+    {
+        "id": 3,
+        "patient_name": "Rohan",
+        "age": 45,
+        "heart_rate": 82,
+        "blood_pressure": "125/82",
+        "temperature": 36.9,
+        "oxygen_level": 97,
+        "status": "healthy"
+    },
+    {
+        "id": 4,
+        "patient_name": "Priya",
+        "age": 31,
+        "heart_rate": 76,
+        "blood_pressure": "118/78",
+        "temperature": 36.8,
+        "oxygen_level": 99,
+        "status": "healthy"
+    }
+]
